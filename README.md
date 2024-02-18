@@ -1,4 +1,5 @@
 # go-tile-server
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/philipp-meier/go-tile-server/blob/main/LICENSE)  
 Simple tile server for `.mbtiles`-files written in Go.  
 Based on the [C# tile-server](https://github.com/philipp-meier/tile-server) repository.
 
